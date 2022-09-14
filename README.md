@@ -1,3 +1,4 @@
 # bot
 this is my first repository
-CHINDI,VICTOR
+THIS IS ROHAN BHAI
+
